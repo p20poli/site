@@ -25,4 +25,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - 6502_Assembly
 ---
