@@ -25,5 +25,5 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
-  - 6502-assembly
+  - assembly-6502
 ---
