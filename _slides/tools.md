@@ -23,6 +23,6 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
-  - reality_immersion_technology
+  - reality-immersion-technology
 ---
 
