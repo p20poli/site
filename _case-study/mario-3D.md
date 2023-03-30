@@ -7,9 +7,7 @@ categories:
   - Σύνθεση
   - Τεχνολογία
 tags:
-  - Games
-  - Super Mario
-  - Graphics
+  - Application
 ---
   
 {% include cs-mario-3D.md %}
