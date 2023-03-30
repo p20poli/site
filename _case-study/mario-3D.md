@@ -10,4 +10,4 @@ tags:
   - Application
 ---
   
-{% include cs-mario3D.md %}
+{% include cs-mario-3D.md %}
