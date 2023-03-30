@@ -8,10 +8,8 @@ categories:
   - Τεχνολογία
 tags:
   - Games
-  - Mario
+  - Super Mario
   - Graphics
-  - 3D
-  - 2D
 ---
   
 {% include cs-mario-3D.md %}
